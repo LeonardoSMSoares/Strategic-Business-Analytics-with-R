@@ -1,4 +1,4 @@
-# Foundations-of-Strategic-Business-Analytics
+# Foundations of Strategic Business Analytics
 Foundations of Strategic Business Analytics by ESSEC Business School
 
 
