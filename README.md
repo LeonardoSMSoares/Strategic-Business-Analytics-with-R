@@ -1,5 +1,6 @@
-# Strategic-Business-Analytics-with-R
+# Foundations-of-Strategic-Business-Analytics
 Foundations of Strategic Business Analytics by ESSEC Business School
+
 
 Week 1 - Finding Groups within Data
 
